@@ -2,9 +2,9 @@
 
 # zwoo-hq
 
-Welcome to the official home of zwoo. zwoo-hq houses all repositories and tool all around [zwoo](https://github.com/fabiankachlock/zwoo)
+Welcome to the official home of zwoo. zwoo-hq houses all repositories and tool all around [zwoo](https://github.com/fabiankachlock/zwoo).
 
-Play zwoo now at [https://zwoo.igd20.de/](https://zwoo.igd20.de/)
+Play zwoo now at [https://zwoo.igd20.de/](https://zwoo.igd20.de/)!
 
 ---
 
