@@ -1,4 +1,4 @@
-![zwoohq-social-image](https://github.com/zwoo-hq/.github/assets/47701374/763bc8b2-3ba2-4674-b304-56d7feaf6418)
+![zwoohq-social-image](.github/assets/zwoohq-social-image.png)
 
 # zwoo-hq
 
