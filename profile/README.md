@@ -1,4 +1,4 @@
-![zwoohq-social-image](.github/assets/zwoohq-social-image.png)
+![zwoohq-social-image](assets/zwoohq-social-image.png)
 
 # zwoo-hq
 
